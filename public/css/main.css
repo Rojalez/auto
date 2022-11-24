@@ -1,0 +1,10 @@
+
+.main-bg {
+    background:  url('/img/main-alt.webp') center no-repeat;
+
+}
+
+.hidefone {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
